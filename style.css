@@ -1,3 +1,8 @@
 p{
     color: aqua;
 }
+.btn{
+    height: 20px;
+    width: 70px;
+    background-color: cadetblue;
+}
